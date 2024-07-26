@@ -33,13 +33,13 @@ body {
 .house-image {
     /*Replace image link*/
     background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../img/house.png");
-    height: 500px;
+    height: 700px;
     background-repeat: no-repeat;
     background-size:cover;
   /*image is fixed in background all other elements are scrolling*/  
   /*background attachement makes image fixed*/
    
-    background-position: center;
+    background-position: bottom;
 }
 .real-image {
     background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../img/real.png");
