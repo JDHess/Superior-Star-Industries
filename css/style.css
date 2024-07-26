@@ -21,7 +21,7 @@ body {
 .drone-image {
     /*Replace image link*/
     background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../img/drone.png");
-    height: 500px;
+    height: 1200px;
     background-repeat: no-repeat;
     background-size:cover;
   /*image is fixed in background all other elements are scrolling*/  
